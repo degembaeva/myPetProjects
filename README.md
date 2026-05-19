@@ -1,2 +1,2 @@
 # myPetProjects
-1. Chat-bot
+1. Создание бота - повторяшки
